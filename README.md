@@ -1080,3 +1080,10 @@ requestConfig.QueryParameters.Status = new[]
 ✅ Supports fetching multiple statuses dynamically.
 
 Would you like a pagination example or unit test for this implementation? 🚀
+
+**Document further steps that you would you take to ensure that your applica5on is fit
+for the enterprise**
+
+1. Improve Sanitizing the output response
+2. Make the helper class more generic to work with different grouping and sorting options
+3. Implicit flow in Petstore API auth is deprecated and not recommended. Hence should be removed. Unsure if you're expecting this
