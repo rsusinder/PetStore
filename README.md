@@ -1087,3 +1087,7 @@ for the enterprise**
 1. Improve Sanitizing the output response
 2. Make the helper class more generic to work with different grouping and sorting options
 3. Implicit flow in Petstore API auth is deprecated and not recommended. Hence should be removed. Unsure if you're expecting this
+4. Exception handling can be implemented for global exceptions and specific exceptions
+5. Application logging can be done to Azure Monitor log analystics workspace
+6. Monitoring can be done using Azure dashboards
+7. Retries can be implemented for handling transient failures like fetching data from petstore api
