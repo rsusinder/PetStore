@@ -1081,7 +1081,7 @@ requestConfig.QueryParameters.Status = new[]
 
 Would you like a pagination example or unit test for this implementation? 🚀
 
-**Document further steps that you would you take to ensure that your applica5on is fit
+**Document further steps that you would you take to ensure that your application is fit
 for the enterprise**
 
 1. Improve Sanitizing the output response
